@@ -1,0 +1,1 @@
+Salary prediction is the process of building a machine learning model that can estimate the salary of an employee based on historical data and relevant features. It helps to make informed decisions regarding job offers, salary negotiations, and workforce management.
